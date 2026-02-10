@@ -4,4 +4,8 @@ just in
 
 ## sub-header
 
-watch tutorial
+watch tutorial 
+
+## local development 
+
+1. just be you
